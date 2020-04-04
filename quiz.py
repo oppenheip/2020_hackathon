@@ -7,8 +7,8 @@ question_prompts = [
      "\n1. Is Mount Shasta an active volcano?\n(a) Yes\n(b) No\n(c) I hope not!\n\n",
      "\n2. On average how often does Mount Shasta erupt?\n(a) Never\n(b) Every 60 years\n(c) Every 600 years\n\n",
      "\n3. How long have people lived near Mount Shasta?\n(a) 700 years\n(b) 7,000 years\n(c) 70,000 years\n\n",
-     "\n5. What is the elevation of Mount Shasta?\n(a) 14,179 feet\n(b) 14,179 meters\n(c) 14,179 miles\n\n",
-     "\n5. What is the estimated volume of Mount Shasta?\n(a) 5 cubic miles\n(b) 85 cubic miles\n(c) 350 cubic kilometers\n\n",
+     "\n4. What is the elevation of Mount Shasta?\n(a) 14,179 feet\n(b) 14,179 meters\n(c) 14,179 miles\n\n",
+     "\n5. What is the estimated volume of Mount Shasta?\n(a) 5 cubic miles\n(b) 85 cubic miles\n(c) 5000 cubic kilometers\n\n",
 ]
 
 questions = [
